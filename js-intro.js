@@ -148,3 +148,4 @@ function noKatzAllowed(noCats) {
 console.log(noKatzAllowed(toonimals))
 
 //6c. Stretch: Create a function that will print a sentence for every toon stating their name and their animal type. Use string interpolation. Expected output: "Itchy is a mouse" "Stimpy is a cat" "Daffy is a duck" "Scratchy is a cat" "Ren is a dog" "Felix is a cat"
+git push --set-upstream origin JuanC
